@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.whl
+*.pyz
+
+# Environments
+.env
+venv/
+env/
+.venv/
+lib/
+lib64/
+Python.gitignore
+include/
+
+# Source control by multiple systems
+.hg/
+.hgcheck
+.hgignore
+.hgtags
+.bzr/
+_darcs
+.arcconfig
+.gitignore.orig
+
+# Editor/IDE-specific files
+.idea/  # PyCharm
+.vscode/ # VS Code
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data and Models
+# It is recommended to use DVC or Git LFS for large data/model versioning
+data/
+models/
+notebooks/checkpoints/
+
+# Sensitive information/credentials
+*.env
+*.key
+*.json  # Use specific file names if needed, not all .json
+
+# Misc
+logs/
+tmp/
+results/
