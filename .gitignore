@@ -19,7 +19,7 @@ var/
 .installed.cfg
 *.whl
 *.pyz
-
+*.json
 # Environments
 .env
 venv/
@@ -42,11 +42,11 @@ _darcs
 
 # Editor/IDE-specific files
 .idea/  # PyCharm
-.vscode/ # VS Code
+.vscode/
 *.swp
 *.sublime-workspace
 *.sublime-project
-
+# .vscode
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
 

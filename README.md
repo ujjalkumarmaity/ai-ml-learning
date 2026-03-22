@@ -5,7 +5,8 @@
 | # | Problem Description | Solution Path | Status |
 |---|---|---|---|
 | 1 | Attention Is All You Need(Transformer) | https://github.com/ujjalkumarmaity/research-paper-implementation/tree/main/Attention-Is-All-You-Need | ✅ |
-| 2 | GAN | `---` | ⏳ |
+| 2 | Top 4 Activation Functions | [activation-function.ipynb](./ml/activation-function.ipynb) | ✅ |
+
 
 
 
